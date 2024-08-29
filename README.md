@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Thanakrit Naisanguansri, a current CS student in college. I love learning how to code and how to utilize it on my own with coding. I've finished a C++ class, and am taking a Java and another C++ class to increase the scope of my knowledge. 
 <!--
 **Tnaisanguansri/tnaisanguansri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
